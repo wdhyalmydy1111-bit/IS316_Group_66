@@ -3,3 +3,4 @@
 Hasna: Data science is an important course in IS department.  
 Wadha:Git helps us work together and keep track of our project changes.
 joud :GitHub makes teamwork easier .
+Rahaf: GitHub makes team collaboration seamless and organized.
